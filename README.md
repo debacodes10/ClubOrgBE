@@ -11,8 +11,8 @@ This repository acts as a central index for all microservices developed as part 
 | **User Service** | `User`, `Club` | ✅ DONE | [GitHub Link](https://github.com/debacodes10/UserService) |
 | **Event Service** | `Event`, `Task`, `Attendance` | ✅ DONE | [GitHub Link](https://github.com/debacodes10/EventService) |
 | **Approval Service** | `Approval Request` | ✅ DONE | [GitHub Link](https://github.com/debacodes10/ApprovalService) |
-| **Resource Service** | `Resource` ✅ <br> `Booking` ⏳ WIP | [GitHub Link](https://github.com/debacodes10/ResourceService) |
-| **Notification Service** | `Alerts` ⏳ <br> `Reminders` ⏳ <br> `Email` ⏳ <br> `Push` ⏳ | [GitHub Link](https://github.com/your-org/notification-service) |
+| **Resource Service** | `Resource` ✅ <br> `Booking` | ✅ | [GitHub Link](https://github.com/debacodes10/ResourceService) |
+| **Notification Service** | `Alerts` ⏳ <br> `Reminders` ⏳ <br> `Email` ⏳ <br> `Push` ⏳ | ⏳ | [GitHub Link](https://github.com/debacodes10/) |
 
 > ✅ DONE = Implemented  
 > ⏳ WIP = Work In Progress
